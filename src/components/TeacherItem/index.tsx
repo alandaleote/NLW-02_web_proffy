@@ -6,7 +6,7 @@ function TeacherItem() {
     return (
         <article className="teacher-item">
             <header>
-                <img src="https://begmetobuyit.com/application/css/images/noImage.jpg" />
+                <img src="https://begmetobuyit.com/application/css/images/noImage.jpg" alt='avatar' />
                 <div>
                     <strong>Nome do Proffy</strong>
                     <span>Matéria</span>
